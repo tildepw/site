@@ -16,7 +16,7 @@ _|_    | |  __|   _     _
 			<p class="align-right">
 				<a href='/'>home</a> ~
 				<a href='signup.php'>sign up</a> ~
-				<a href='https://tildegit.org/pw'>git</a> ~
+				<a href='https://github.com/tildepw'>git</a> ~
 				<a href='users.php'>users</a>
 			</p>
 			<br><hr>
