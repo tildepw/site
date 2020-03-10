@@ -1,4 +1,8 @@
 <?php
+// this code is from tilde.club's site!!
+// tildegit.org/club/site/
+// github.com/tildeclub/site/
+
 require_once "email/smtp.php";
 
 function forbidden_name($name) {
