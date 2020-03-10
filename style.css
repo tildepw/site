@@ -1,0 +1,58 @@
+body {
+	max-width: 38rem;
+	padding: 2rem;
+	margin: 0 auto;
+	color: #3f0;
+	background: #000;
+}
+
+@media (max-device-width: 736px) {
+	body {padding: 0.5rem;}
+}
+
+hr {
+	overflow: visible; /* For IE */
+	padding: 0;
+	border: none;
+	border-top: medium double #3f0;
+	color: #3f0;
+	text-align: center;
+}
+
+hr:after {
+	content: "~";
+	display: inline-block;
+	position: relative;
+	top: -0.7em;
+	font-size: 1.5em;
+	padding: 0 0.25em;
+	background: #000;
+}
+
+.align-right {
+	text-align: right;
+}
+
+a {
+	color: #3f0;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #9f7;
+	text-decoration: underline;
+}
+
+textarea, input {
+	border: 1px solid #3f0;
+	background: black;
+	color: #3f0;
+}
+
+button {
+	border: 1px solid #3f0;
+	background: black;
+	color: #3f0;
+	border-radius: 0;
+	padding: 0.5rem;
+}
