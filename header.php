@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <html>
 	<head>
 		<title>tilde.pw<?=isset($title) ? " &rarr; $title" : "" ?></title>
